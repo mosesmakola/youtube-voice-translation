@@ -1,0 +1,674 @@
+[
+    {
+        "index": 0,
+        "start_time": "00:00:00,040",
+        "end_time": "00:00:04,720",
+        "text": "to run deep seek locally I'll open up my"
+    },
+{
+        "index": 1,
+        "start_time": "00:00:02,399",
+        "end_time": "00:00:06,960",
+        "text": "browser and look for ol it basically"
+    },
+    {
+        "index": 2,
+        "start_time": "00:00:04,720",
+        "end_time": "00:00:09,360",
+        "text": "lets you run llms on your computer I'll"
+    },
+    {
+        "index": 3,
+        "start_time": "00:00:06,960",
+        "end_time": "00:00:11,280",
+        "text": "click download yoink and while it's"
+    },
+    {
+        "index": 4,
+        "start_time": "00:00:09,360",
+        "end_time": "00:00:13,639",
+        "text": "downloading I'll go into models and"
+    },
+    {
+        "index": 5,
+        "start_time": "00:00:11,280",
+        "end_time": "00:00:15,480",
+        "text": "here's deep seek R1 I'll click on it"
+    },
+    {
+        "index": 6,
+        "start_time": "00:00:13,639",
+        "end_time": "00:00:17,560",
+        "text": "here and I can choose which version of"
+    },
+    {
+        "index": 7,
+        "start_time": "00:00:15,480",
+        "end_time": "00:00:19,600",
+        "text": "the llm I want to download bigger ones"
+    },
+    {
+        "index": 8,
+        "start_time": "00:00:17,560",
+        "end_time": "00:00:22,000",
+        "text": "are better but harder to run for your"
+    },
+    {
+        "index": 9,
+        "start_time": "00:00:19,600",
+        "end_time": "00:00:23,519",
+        "text": "computer I'll pick the 7 billion one and"
+    },
+    {
+        "index": 10,
+        "start_time": "00:00:22,000",
+        "end_time": "00:00:24,880",
+        "text": "here's the command that I'll need to"
+    },
+    {
+        "index": 11,
+        "start_time": "00:00:23,519",
+        "end_time": "00:00:27,240",
+        "text": "install it I'll then go into my"
+    },
+    {
+        "index": 12,
+        "start_time": "00:00:24,880",
+        "end_time": "00:00:29,599",
+        "text": "downloads location and open the olama"
+    },
+    {
+        "index": 13,
+        "start_time": "00:00:27,240",
+        "end_time": "00:00:31,160",
+        "text": "installer boink then install to install"
+    },
+    {
+        "index": 14,
+        "start_time": "00:00:29,599",
+        "end_time": "00:00:32,840",
+        "text": "it and once it's done I can send the"
+    },
+    {
+        "index": 15,
+        "start_time": "00:00:31,160",
+        "end_time": "00:00:34,960",
+        "text": "installer right to the trash you'll"
+    },
+    {
+        "index": 16,
+        "start_time": "00:00:32,840",
+        "end_time": "00:00:36,760",
+        "text": "notice that now AMA is running in my"
+    },
+    {
+        "index": 17,
+        "start_time": "00:00:34,960",
+        "end_time": "00:00:39,120",
+        "text": "system tray next I'll open up the start"
+    },
+    {
+        "index": 18,
+        "start_time": "00:00:36,760",
+        "end_time": "00:00:41,079",
+        "text": "menu and look for this scary thing"
+    },
+    {
+        "index": 19,
+        "start_time": "00:00:39,120",
+        "end_time": "00:00:42,640",
+        "text": "called Powershell don't worry we'll do"
+    },
+    {
+        "index": 20,
+        "start_time": "00:00:41,079",
+        "end_time": "00:00:45,079",
+        "text": "everything step by step so this is where"
+    },
+    {
+        "index": 21,
+        "start_time": "00:00:42,640",
+        "end_time": "00:00:47,440",
+        "text": "I want to copy and paste in that command"
+    },
+    {
+        "index": 22,
+        "start_time": "00:00:45,079",
+        "end_time": "00:00:51,239",
+        "text": "from the ol website and click enter it's"
+    },
+    {
+        "index": 23,
+        "start_time": "00:00:47,440",
+        "end_time": "00:00:54,280",
+        "text": "now downloading deep seek AI it will"
+    },
+    {
+        "index": 24,
+        "start_time": "00:00:51,239",
+        "end_time": "00:00:56,160",
+        "text": "take 64 years and once it's done boom it"
+    },
+    {
+        "index": 25,
+        "start_time": "00:00:54,280",
+        "end_time": "00:00:58,600",
+        "text": "says send a message I can now talk to"
+    },
+    {
+        "index": 26,
+        "start_time": "00:00:56,160",
+        "end_time": "00:01:00,519",
+        "text": "deep seek AI locally on my computer once"
+    },
+    {
+        "index": 27,
+        "start_time": "00:00:58,600",
+        "end_time": "00:01:02,440",
+        "text": "I click enter it starts to think this is"
+    },
+    {
+        "index": 28,
+        "start_time": "00:01:00,519",
+        "end_time": "00:01:04,400",
+        "text": "one of the cool features of deep seek"
+    },
+    {
+        "index": 29,
+        "start_time": "00:01:02,440",
+        "end_time": "00:01:06,560",
+        "text": "and after a while it spits out the"
+    },
+    {
+        "index": 30,
+        "start_time": "00:01:04,400",
+        "end_time": "00:01:09,119",
+        "text": "answer very nice but what the hell is"
+    },
+    {
+        "index": 31,
+        "start_time": "00:01:06,560",
+        "end_time": "00:01:11,439",
+        "text": "this I want a clean nice interface like"
+    },
+    {
+        "index": 32,
+        "start_time": "00:01:09,119",
+        "end_time": "00:01:13,320",
+        "text": "chat GPT instead of this black box"
+    },
+    {
+        "index": 33,
+        "start_time": "00:01:11,439",
+        "end_time": "00:01:14,960",
+        "text": "couple things first I can type slash"
+    },
+    {
+        "index": 34,
+        "start_time": "00:01:13,320",
+        "end_time": "00:01:16,799",
+        "text": "question mark to see the available"
+    },
+    {
+        "index": 35,
+        "start_time": "00:01:14,960",
+        "end_time": "00:01:19,840",
+        "text": "commands and to stop talking to deep"
+    },
+    {
+        "index": 36,
+        "start_time": "00:01:16,799",
+        "end_time": "00:01:21,960",
+        "text": "seek I can type slby see you later then"
+    },
+    {
+        "index": 37,
+        "start_time": "00:01:19,840",
+        "end_time": "00:01:23,799",
+        "text": "if I want to activate it again I can use"
+    },
+    {
+        "index": 38,
+        "start_time": "00:01:21,960",
+        "end_time": "00:01:26,159",
+        "text": "the same command from AMA which will"
+    },
+    {
+        "index": 39,
+        "start_time": "00:01:23,799",
+        "end_time": "00:01:28,240",
+        "text": "also notice that it's quite slow if I go"
+    },
+    {
+        "index": 40,
+        "start_time": "00:01:26,159",
+        "end_time": "00:01:30,439",
+        "text": "into the deep seek website and ask the"
+    },
+    {
+        "index": 41,
+        "start_time": "00:01:28,240",
+        "end_time": "00:01:32,840",
+        "text": "same question it's much faster that's"
+    },
+    {
+        "index": 42,
+        "start_time": "00:01:30,439",
+        "end_time": "00:01:34,960",
+        "text": "because my computer bad China's data"
+    },
+    {
+        "index": 43,
+        "start_time": "00:01:32,840",
+        "end_time": "00:01:37,720",
+        "text": "center good but it's also good at"
+    },
+    {
+        "index": 44,
+        "start_time": "00:01:34,960",
+        "end_time": "00:01:40,560",
+        "text": "harvesting just like every other"
+    },
+    {
+        "index": 45,
+        "start_time": "00:01:37,720",
+        "end_time": "00:01:42,640",
+        "text": "AI so to have a fancy interface I'll"
+    },
+    {
+        "index": 46,
+        "start_time": "00:01:40,560",
+        "end_time": "00:01:44,399",
+        "text": "open up my browser and look for Docker"
+    },
+    {
+        "index": 47,
+        "start_time": "00:01:42,640",
+        "end_time": "00:01:46,360",
+        "text": "it's what's going to let me run the nice"
+    },
+    {
+        "index": 48,
+        "start_time": "00:01:44,399",
+        "end_time": "00:01:48,079",
+        "text": "interface I'll click download and choose"
+    },
+    {
+        "index": 49,
+        "start_time": "00:01:46,360",
+        "end_time": "00:01:49,840",
+        "text": "my operating system then inside my"
+    },
+    {
+        "index": 50,
+        "start_time": "00:01:48,079",
+        "end_time": "00:01:52,680",
+        "text": "downloads location I'll open the"
+    },
+    {
+        "index": 51,
+        "start_time": "00:01:49,840",
+        "end_time": "00:01:54,680",
+        "text": "installer say yes and here okay and"
+    },
+    {
+        "index": 52,
+        "start_time": "00:01:52,680",
+        "end_time": "00:01:57,320",
+        "text": "after it's done I'll close and restart"
+    },
+    {
+        "index": 53,
+        "start_time": "00:01:54,680",
+        "end_time": "00:01:59,560",
+        "text": "my PC hello I'll then click accept and"
+    },
+    {
+        "index": 54,
+        "start_time": "00:01:57,320",
+        "end_time": "00:02:01,240",
+        "text": "finish then Docker will open up where"
+    },
+    {
+        "index": 55,
+        "start_time": "00:01:59,560",
+        "end_time": "00:02:03,479",
+        "text": "I'll be be able to create an account"
+    },
+    {
+        "index": 56,
+        "start_time": "00:02:01,240",
+        "end_time": "00:02:05,719",
+        "text": "once I'm done I'll click here then skip"
+    },
+    {
+        "index": 57,
+        "start_time": "00:02:03,479",
+        "end_time": "00:02:08,080",
+        "text": "the survey and after a while I'm in I"
+    },
+    {
+        "index": 58,
+        "start_time": "00:02:05,719",
+        "end_time": "00:02:10,200",
+        "text": "can now see that Docker and AMA are both"
+    },
+    {
+        "index": 59,
+        "start_time": "00:02:08,080",
+        "end_time": "00:02:13,840",
+        "text": "running next inside of my browser I look"
+    },
+    {
+        "index": 60,
+        "start_time": "00:02:10,200",
+        "end_time": "00:02:15,920",
+        "text": "for how to start open web UI container"
+    },
+    {
+        "index": 61,
+        "start_time": "00:02:13,840",
+        "end_time": "00:02:18,080",
+        "text": "those are some words I know inside of"
+    },
+    {
+        "index": 62,
+        "start_time": "00:02:15,920",
+        "end_time": "00:02:20,720",
+        "text": "the first link I'll be able to find this"
+    },
+    {
+        "index": 63,
+        "start_time": "00:02:18,080",
+        "end_time": "00:02:22,200",
+        "text": "command if your PC has an Nvidia GPU"
+    },
+    {
+        "index": 64,
+        "start_time": "00:02:20,720",
+        "end_time": "00:02:25,800",
+        "text": "then you can use the command that's"
+    },
+    {
+        "index": 65,
+        "start_time": "00:02:22,200",
+        "end_time": "00:02:28,080",
+        "text": "below this one so your AI runs faster he"
+    },
+    {
+        "index": 66,
+        "start_time": "00:02:25,800",
+        "end_time": "00:02:30,000",
+        "text": "I'll copy this command and once again"
+    },
+    {
+        "index": 67,
+        "start_time": "00:02:28,080",
+        "end_time": "00:02:32,000",
+        "text": "open Powershell and paste it in it's"
+    },
+    {
+        "index": 68,
+        "start_time": "00:02:30,000",
+        "end_time": "00:02:34,000",
+        "text": "going to do its magic and once it's done"
+    },
+    {
+        "index": 69,
+        "start_time": "00:02:32,000",
+        "end_time": "00:02:36,000",
+        "text": "I'll click allow there's one more thing"
+    },
+    {
+        "index": 70,
+        "start_time": "00:02:34,000",
+        "end_time": "00:02:38,120",
+        "text": "to check so I'll search for Windows"
+    },
+    {
+        "index": 71,
+        "start_time": "00:02:36,000",
+        "end_time": "00:02:40,640",
+        "text": "features and click here and I'm looking"
+    },
+    {
+        "index": 72,
+        "start_time": "00:02:38,120",
+        "end_time": "00:02:42,519",
+        "text": "for virtual machine platform I want to"
+    },
+    {
+        "index": 73,
+        "start_time": "00:02:40,640",
+        "end_time": "00:02:44,400",
+        "text": "make sure it's enabled beautiful so now"
+    },
+    {
+        "index": 74,
+        "start_time": "00:02:42,519",
+        "end_time": "00:02:46,400",
+        "text": "I'll open Docker and here you'll see a"
+    },
+    {
+        "index": 75,
+        "start_time": "00:02:44,400",
+        "end_time": "00:02:48,519",
+        "text": "new thing that's spawned in I'll click"
+    },
+    {
+        "index": 76,
+        "start_time": "00:02:46,400",
+        "end_time": "00:02:50,159",
+        "text": "on these numbers and boom stuff is"
+    },
+    {
+        "index": 77,
+        "start_time": "00:02:48,519",
+        "end_time": "00:02:52,040",
+        "text": "happening I'll click get started and"
+    },
+    {
+        "index": 78,
+        "start_time": "00:02:50,159",
+        "end_time": "00:02:54,280",
+        "text": "create an account I'll need it to log in"
+    },
+    {
+        "index": 79,
+        "start_time": "00:02:52,040",
+        "end_time": "00:02:56,760",
+        "text": "into my new AI interface once I'm done"
+    },
+    {
+        "index": 80,
+        "start_time": "00:02:54,280",
+        "end_time": "00:02:59,360",
+        "text": "I'll say let's go here and boom I have"
+    },
+    {
+        "index": 81,
+        "start_time": "00:02:56,760",
+        "end_time": "00:03:01,120",
+        "text": "the Deep seek R1 model loaded offline"
+    },
+    {
+        "index": 82,
+        "start_time": "00:02:59,360",
+        "end_time": "00:03:03,319",
+        "text": "and I can chat with it I'll remove the"
+    },
+    {
+        "index": 83,
+        "start_time": "00:03:01,120",
+        "end_time": "00:03:05,239",
+        "text": "internet cable from my PC just to show"
+    },
+    {
+        "index": 84,
+        "start_time": "00:03:03,319",
+        "end_time": "00:03:07,239",
+        "text": "it's working offline and once I type in"
+    },
+    {
+        "index": 85,
+        "start_time": "00:03:05,239",
+        "end_time": "00:03:09,480",
+        "text": "a prompt it's going to take its sweet"
+    },
+    {
+        "index": 86,
+        "start_time": "00:03:07,239",
+        "end_time": "00:03:11,319",
+        "text": "time to think and eventually spit out an"
+    },
+    {
+        "index": 87,
+        "start_time": "00:03:09,480",
+        "end_time": "00:03:13,360",
+        "text": "answer if I don't want to use it anymore"
+    },
+    {
+        "index": 88,
+        "start_time": "00:03:11,319",
+        "end_time": "00:03:15,360",
+        "text": "I can go back to Docker and click this"
+    },
+    {
+        "index": 89,
+        "start_time": "00:03:13,360",
+        "end_time": "00:03:17,560",
+        "text": "to stop it now you may be thinking I"
+    },
+    {
+        "index": 90,
+        "start_time": "00:03:15,360",
+        "end_time": "00:03:19,280",
+        "text": "have all of this AI stuff installed how"
+    },
+    {
+        "index": 91,
+        "start_time": "00:03:17,560",
+        "end_time": "00:03:21,239",
+        "text": "do I get rid of it I'll go to my start"
+    },
+    {
+        "index": 92,
+        "start_time": "00:03:19,280",
+        "end_time": "00:03:23,040",
+        "text": "menu and look for control panel then"
+    },
+    {
+        "index": 93,
+        "start_time": "00:03:21,239",
+        "end_time": "00:03:25,120",
+        "text": "inside of programs and features I'll"
+    },
+    {
+        "index": 94,
+        "start_time": "00:03:23,040",
+        "end_time": "00:03:27,319",
+        "text": "select Docker and uninstall and it's"
+    },
+    {
+        "index": 95,
+        "start_time": "00:03:25,120",
+        "end_time": "00:03:29,920",
+        "text": "going to remove itself from my PC the"
+    },
+    {
+        "index": 96,
+        "start_time": "00:03:27,319",
+        "end_time": "00:03:32,319",
+        "text": "exact same thing with AMA but deep seek"
+    },
+    {
+        "index": 97,
+        "start_time": "00:03:29,920",
+        "end_time": "00:03:34,280",
+        "text": "is still taking up space on my PC to"
+    },
+    {
+        "index": 98,
+        "start_time": "00:03:32,319",
+        "end_time": "00:03:37,480",
+        "text": "eliminate it as well I'll open up file"
+    },
+    {
+        "index": 99,
+        "start_time": "00:03:34,280",
+        "end_time": "00:03:40,280",
+        "text": "explorer going to C drive users then my"
+    },
+    {
+        "index": 100,
+        "start_time": "00:03:37,480",
+        "end_time": "00:03:43,480",
+        "text": "user name and here I'll delete Docker"
+    },
+    {
+        "index": 101,
+        "start_time": "00:03:40,280",
+        "end_time": "00:03:46,120",
+        "text": "andol folders but wao what's down there"
+    },
+    {
+        "index": 102,
+        "start_time": "00:03:43,480",
+        "end_time": "00:03:48,080",
+        "text": "you may ask a little penguin has spawned"
+    },
+    {
+        "index": 103,
+        "start_time": "00:03:46,120",
+        "end_time": "00:03:49,920",
+        "text": "in as well to make it fly away I'll go"
+    },
+    {
+        "index": 104,
+        "start_time": "00:03:48,080",
+        "end_time": "00:03:51,959",
+        "text": "into the start menu look for turn"
+    },
+    {
+        "index": 105,
+        "start_time": "00:03:49,920",
+        "end_time": "00:03:54,439",
+        "text": "Windows features on or off again and"
+    },
+    {
+        "index": 106,
+        "start_time": "00:03:51,959",
+        "end_time": "00:03:56,640",
+        "text": "inside I'm looking for Windows subsystem"
+    },
+    {
+        "index": 107,
+        "start_time": "00:03:54,439",
+        "end_time": "00:03:59,040",
+        "text": "for Linux once I turn it off it will ask"
+    },
+    {
+        "index": 108,
+        "start_time": "00:03:56,640",
+        "end_time": "00:04:01,599",
+        "text": "me to restart my PC and the sneaky"
+    },
+    {
+        "index": 109,
+        "start_time": "00:03:59,040",
+        "end_time": "00:04:03,720",
+        "text": "windows up later I'm back and there's no"
+    },
+    {
+        "index": 110,
+        "start_time": "00:04:01,599",
+        "end_time": "00:04:06,319",
+        "text": "more penguin in my file explorer"
+    },
+    {
+        "index": 111,
+        "start_time": "00:04:03,720",
+        "end_time": "00:04:06,319",
+        "text": "beautiful"
+    }
+]
